@@ -1,0 +1,26 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '13.5'
+
+target 'cocreate' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for cocreatei
+  pod 'gRPC-Swift', '1.0.0-alpha.17'
+  pod 'gRPC-Swift-Plugins', '1.0.0-alpha.17'
+  pod 'TrustWalletCore'
+  pod 'Web3'
+  pod 'Web3/PromiseKit'
+  pod 'Web3/ContractABI'
+  pod 'CryptoSwift', '~> 1.0'
+
+  target 'cocreateTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'cocreateUITests' do
+    # Pods for testing
+  end
+
+end

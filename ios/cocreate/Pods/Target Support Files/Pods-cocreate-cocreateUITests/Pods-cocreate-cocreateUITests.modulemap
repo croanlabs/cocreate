@@ -1,0 +1,6 @@
+framework module Pods_cocreate_cocreateUITests {
+  umbrella header "Pods-cocreate-cocreateUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

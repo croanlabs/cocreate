@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Fake Empire",
+        "artist": "The National",
+        "category": "Rock",
+        "id": 1001,
+        "imageName": "boxer",
+        "isFavorite": false,
+        "isFeatured": false
+    },
+    {
+        "name": "Rebellion (Lies)",
+        "artist": "Arcade Fire",
+        "category": "Rock",
+        "id": 1002,
+        "imageName": "funeral",
+        "isFavorite": true,
+        "isFeatured": false
+    },
+    {
+        "name": "Stars And Sons",
+        "artist": "Broken Social Scene",
+        "category": "Rock",
+        "id": 1003,
+        "imageName": "bss",
+        "isFavorite": false,
+        "isFeatured": true
+    },
+    {
+        "name": "Float On",
+        "artist": "Modest Mouse",
+        "category": "Rock",
+        "id": 1004,
+        "imageName": "goodnews",
+        "isFavorite": true,
+        "isFeatured": false
+    },
+    {
+        "name": "Leave Home",
+        "artist": "Chemical Brothers",
+        "category": "EDM",
+        "id": 1005,
+        "imageName": "epd",
+        "isFavorite": false,
+        "isFeatured": false
+    },
+    {
+        "name": "Bentleys Gonna Sort You Out!",
+        "artist": "Bentley Rhythm Ace",
+        "category": "EDM",
+        "id": 1006,
+        "imageName": "bra",
+        "isFavorite": false,
+        "isFeatured": false
+    },
+    {
+        "name": "Kill All Hippies",
+        "artist": "Primal Scream",
+        "category": "EDM",
+        "id": 1007,
+        "imageName": "xtrmntr",
+        "isFavorite": false,
+        "isFeatured": false
+    },
+    {
+        "name": "The Box",
+        "artist": "Orbital",
+        "category": "EDM",
+        "id": 1008,
+        "imageName": "insides",
+        "isFavorite": true,
+        "isFeatured": false
+    },
+    {
+        "name": "Rambling Man",
+        "artist": "Laura Marling",
+        "category": "Folk",
+        "id": 1009,
+        "imageName": "ispeak",
+        "isFavorite": false,
+        "isFeatured": true
+    },
+    {
+        "name": "A Sail",
+        "artist": "Lisa Hannigan",
+        "category": "Folk",
+        "id": 1010,
+        "imageName": "passenger",
+        "isFavorite": false,
+        "isFeatured": true
+    },
+    {
+        "name": "The Meetings Of The Waters",
+        "artist": "Fionn Regan",
+        "category": "Folk",
+        "id": 1011,
+        "imageName": "meetings",
+        "isFavorite": false,
+        "isFeatured": true
+    },
+    {
+        "name": "Sugar Baby",
+        "artist": "Sam Amidon",
+        "category": "Folk",
+        "id": 1012,
+        "imageName": "alliswell",
+        "isFavorite": false,
+        "isFeatured": false
+    }
+    
+]

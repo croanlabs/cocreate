@@ -1,0 +1,6 @@
+framework module Pods_cocreate {
+  umbrella header "Pods-cocreate-umbrella.h"
+
+  export *
+  module * { export * }
+}
