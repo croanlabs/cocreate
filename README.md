@@ -1,3 +1,6 @@
+Note - this is the code frozen for the HackFS 2020 submission as per August 6th. We continue to work on the app but we have not merged in more recent changes.
+
+
 # CoCreate - An App for Songwriter Guilds
 
 For every songwriter with their collection on SoundCloud (25M creators listened to by 76M monthly active users), there are many more who never get that far. But if every one of these creators put all their raw audio on Filecoin (think 20-30 tracks per song, plus backups etc.) that would be a lot of data to store! So we need a very big file system!
